@@ -34,11 +34,14 @@ Para banco de dados foi ultilizado SQL Server
 ### 3. Configuração do Backend
    
 1. Abra o projeto backend e navegue até a pasta `Persistence` no terminal.
-2. Execute o comando abaixo para atualizar o banco de dados:
+2. Execute o comando abaixo para criar e atualizar o banco de dados:
     ```bash
     dotnet ef database update --project Persistence.csproj --startup-project ../DesafioIngaCodeApi/DesafioIngaCodeApi.csproj
     ```
-3. Caso for rodar o backend no visual studio code, utilize no terminal:
+   Caso o comando acima não funcione, pode ser devido à ausência do SQL Server ou de uma conexão adequada com o banco de dados. Certifique-se de que o SQL Server esteja instalado e configurado corretamente.
+
+   
+4. Caso for rodar o backend no visual studio code, utilize no terminal:
     ```bash
     dotnet run
     ```
