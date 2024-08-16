@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hX09V1APb3M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Angelo\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

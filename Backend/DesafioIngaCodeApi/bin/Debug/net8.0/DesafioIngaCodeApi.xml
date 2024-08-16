@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DesafioIngaCodeApi</name>
+    </assembly>
+    <members>
+        <member name="M:DesafioIngaCodeApi.Controllers.Profile.AuthenticationController.Login(Application.DTOs.Profile.LoginDTO)">
+            <summary>
+            Authenticates a user and generates a login token.
+            </summary>
+            <param name="loginDTO">DTO object containing the login credentials (username and password).</param>
+            <returns>Returns the service response with the authentication result, including a token if successful.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.Profile.CollaboratorController.Get">
+            <summary>
+            Retrieves the list of all collaborators.
+            </summary>
+            <returns>Returns the list of collaborators.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.Profile.UserController.Create(Application.DTOs.Profile.UserDTOs.CreateUserDTO)">
+            <summary>
+            Creates a new user and automatically creates a collaborator.
+            </summary>
+            <param name="usuario">DTO object containing user data.</param>
+            <returns>Returns the service response.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.Profile.UserController.Get">
+            <summary>
+            Retrieves the list of all users.
+            </summary>
+            <returns>Returns the list of users.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.Profile.UserController.Get(System.String)">
+            <summary>
+            Retrieves the data of a specific user.
+            </summary>
+            <param name="username">The username of the user.</param>
+            <returns>Returns the user's data.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.Profile.UserController.Remove(System.String)">
+            <summary>
+            Removes a user and automatically removes a collaborator.
+            </summary>
+            <param name="username">The username of the user to be removed.</param>
+            <returns>Returns the service response.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.Profile.UserController.Update(Application.DTOs.Profile.UserDTOs.UserDTO)">
+            <summary>
+            Get the user from Token and update the user's username and automatically update the collaborator name
+            </summary>
+            <param name="usuario">Username to be changed</param>
+            <returns>Returns the service response.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.WorkManagement.ProjectsController.Create(Application.DTOs.WorkManagementDTOs.ProjectsDTOs.ProjectCreateDTO)">
+            <summary>
+            Creates a new project
+            </summary>
+            <param name="project">DTO object containing project data.</param>
+            <returns>Returns the service response.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.WorkManagement.ProjectsController.Get">
+            <summary>
+            Retrieves the list of all projects.
+            </summary>
+            <returns>Returns the list of projects.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.WorkManagement.ProjectsController.Get(System.Guid)">
+            <summary>
+            Retrieves the data of a specific project.
+            </summary>
+            <param name="id">The projectname of the project.</param>
+            <returns>Returns the project's data.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.WorkManagement.ProjectsController.Remove(System.Guid)">
+            <summary>
+            Removes a project
+            </summary>
+            <param name="name">The projectname of the project to be removed.</param>
+            <returns>Returns the service response.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.WorkManagement.ProjectsController.Update(System.Guid,Application.DTOs.WorkManagementDTOs.ProjectsDTOs.ProjectCreateDTO)">
+            <summary>
+            Update the project's name 
+            </summary>
+            <param name="id">id of the project you want to update</param>
+            <param name="project">name to be changed</param>
+            <returns>Returns the service response.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.WorkManagement.TasksController.Create(Application.DTOs.WorkManagementDTOs.TasksDTOs.TaskCreateDTO)">
+            <summary>
+            Creates a new task
+            </summary>
+            <param name="task">DTO object containing task data.</param>
+            <returns>Returns the service response.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.WorkManagement.TasksController.Get(System.Guid)">
+            <summary>
+            Retrieves the list of all Tasks.
+            </summary>
+            <returns>Returns the list of Tasks.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.WorkManagement.TasksController.Get(System.String)">
+            <summary>
+            Retrieves the data of a specific task.
+            </summary>
+            <param name="name">The taskname of the task.</param>
+            <returns>Returns the task's data.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.WorkManagement.TasksController.Remove(System.Guid)">
+            <summary>
+            Removes a task
+            </summary>
+            <param name="name">The taskname of the task to be removed.</param>
+            <returns>Returns the service response.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.WorkManagement.TasksController.Update(Application.DTOs.WorkManagementDTOs.TasksDTOs.TaskUpdateDTO,System.Guid)">
+            <summary>
+            Update a task
+            </summary>
+            <param name="id">name of the task you want to update</param>
+            <param name="task">name to be changed</param>
+            <returns>Returns the service response.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.WorkManagement.TimeTrackersController.Create(Application.DTOs.WorkManagementDTOs.TimeTrackersDTOs.TimeTrackersCreateDTO,System.Guid)">
+            <summary>
+            Creates a new time tracker
+            </summary>
+            <param name="timeTracker">DTO object containing time tracker data.</param>
+            <returns>Returns the service response.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.WorkManagement.TimeTrackersController.Get(System.Guid)">
+            <summary>
+            Retrieves the list of all TimeTrackers.
+            </summary>
+            <returns>Returns the list of TimeTrackers.</returns>
+        </member>
+        <member name="M:DesafioIngaCodeApi.Controllers.WorkManagement.TimeTrackersController.Remove(System.Guid)">
+            <summary>
+            Removes a task
+            </summary>
+            <param name="id">The id of the time tracker to be removed.</param>
+            <returns>Returns the service response.</returns>
+        </member>
+    </members>
+</doc>

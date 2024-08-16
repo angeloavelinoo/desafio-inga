@@ -1,0 +1,109 @@
+
+<div class="container-fluid pt-3">
+    <div class="row">
+      <div class="col-12">
+        <button class="home-button" routerLink="/home">Voltar para Home</button>
+    </div>
+        <div class="col-12 col-lg-3">
+            <div class="card-info">
+                <h1 class="titulo">Detalhes do Projeto</h1>
+                <div class="project-info">
+                    <p class="project-name">{{ projectName }}</p>
+                    <p class="project-description">Projeto criado: {{createdAt}}</p>
+                    @if(updatedAt != null) {
+                      <p class="project-description">Projeto atualizado: {{updatedAt}}</p>
+                    }
+
+                </div>
+            </div>
+        </div>
+
+            <div class="col-12 col-lg-9">
+                <div class="card-info">
+                  <h2 class="section-title">Tarefas</h2>
+              
+                  <app-button class="primary-button" textButton="Criar task" (click)="openTaskModal()"></app-button>
+              
+                  <mat-form-field class="filter">
+                    <mat-label>Filtrar</mat-label>
+                    <input matInput (keyup)="applyFilter($event)" placeholder="Ex. Tarefa 1" #input>
+                  </mat-form-field>
+              
+                  <div class="table-container mat-elevation-z8">
+                    <table mat-table [dataSource]="dataSource" matSort>
+              
+                      <ng-container matColumnDef="name">
+                        <th mat-header-cell *matHeaderCellDef mat-sort-header> Nome </th>
+                        <td mat-cell *matCellDef="let row"> {{row.name}} </td>
+                      </ng-container>
+
+                      <ng-container matColumnDef="collaborator">
+                        <th mat-header-cell *matHeaderCellDef mat-sort-header> Colaborador </th>
+                        <td mat-cell *matCellDef="let row"> {{row.collaboratorName}} </td>
+                      </ng-container>
+                        
+                      <ng-container matColumnDef="actions">
+                        <th mat-header-cell *matHeaderCellDef class="actions-header"> Ações </th>
+                        <td mat-cell *matCellDef="let row" class="actions-buttons">
+                          <button mat-icon-button color="primary" (click)="openTaskModal(row)">
+                            <mat-icon>edit</mat-icon>
+                          </button>
+                          <button mat-icon-button color="warn" (click)="deleteTask(row.id)">
+                            <mat-icon>delete</mat-icon>
+                          </button>
+                        </td>
+                      </ng-container>
+              
+                      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+                      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+                      <tr class="mat-row" *matNoDataRow>
+                        <td class="mat-cell" colspan="3">Nenhuma tarefa encontrada com o nome "{{input.value}}"</td>
+                      </tr>
+                    </table>
+              
+                    <mat-paginator [pageSizeOptions]="[2]" aria-label="Selecione a Página"></mat-paginator>
+                  </div>
+                </div>
+              </div>
+
+              <div class="card-info mt-4">
+                <h2 class="section-title">Horas Gastas</h2>
+                <div class="hours-summary">
+                  <h3>Horas Gastas por Dia:</h3>
+                  <ul>
+                    <li *ngFor="let day of dailyHours">
+                      {{ day.date | date:'dd/MM/yyyy' }}: {{ day.hours }}h
+                    </li>
+                  </ul>
+                  <h3>Horas Gastas no Mês Atual:</h3>
+                  <p>{{ totalMonthlyHours }}h</p>
+                </div>
+              </div>
+
+
+              <div class="card-info mt-4">
+                <h2 class="section-title">Calendário / Rastreamento de Tempo</h2>
+                <div class="calendar-container">
+                    <div *ngFor="let day of organizedTasks" class="calendar-day">
+                        <h3>{{ day.date | date:'dd/MM/yyyy' }}</h3>
+                        <div *ngIf="day.tasks.length > 0">
+                            <ul>
+                                <li *ngFor="let task of day.tasks">
+                                    <div class="task-details">
+                                        <span class="task-name">{{ task.name }}</span>
+                                        <span class="task-collaborator">Colaborador: {{ task.collaboratorName }}</span>
+                                        <span class="task-time">Iníco: {{ task.startDate }} <br> Fim:{{ task.endDate }}</span>
+                                        <span>Descrição:  {{task.description}}</span>
+                                    </div>
+                                    <span class="task-icon">🗓️</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div *ngIf="day.tasks.length === 0" class="no-tasks-message">
+                            Sem tarefas para este dia.
+                        </div>
+                    </div>
+                </div>
+            </div>            
+        </div>
+    </div>

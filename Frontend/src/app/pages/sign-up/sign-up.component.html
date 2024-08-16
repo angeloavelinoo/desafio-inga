@@ -1,0 +1,19 @@
+<div class="content-area">
+    <form class="area-form" [formGroup]="form">
+        <h1 class="titulo">Inga Gerenciamentos</h1>
+        
+        <input formControlName="username" class="input-form" type="text" placeholder="Digite seu nome">
+        <p *ngIf="form.controls.username.invalid && form.controls.username.touched" class="errorMessage">
+            Campo inválido. Deve ter pelo menos 3 caracteres.
+        </p>
+        
+        <input formControlName="password" class="input-form" type="password" placeholder="Digite sua senha">
+        <p *ngIf="form.controls.password.invalid && form.controls.password.touched" class="errorMessage">
+            Campo inválido. Deve ter pelo menos 6 caracteres.
+        </p>
+
+        <app-button textButton="Criar" (click)="create(form.controls.username.value ?? '', form.controls.password.value ?? '')" class="main-button"></app-button>
+
+        <p class="login-link">Já tem uma conta? <a href="login">Entrar</a></p>
+    </form>
+</div>

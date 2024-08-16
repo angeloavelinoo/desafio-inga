@@ -1,0 +1,17 @@
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\bin\Debug\net8.0\Domain.dll
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\bin\Debug\net8.0\Domain.pdb
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+C:\Users\Angelo\source\repos\DesafioIngaCode\Persistence\obj\Debug\net8.0\ref\Persistence.dll

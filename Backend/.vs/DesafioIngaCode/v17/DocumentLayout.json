@@ -1,0 +1,1253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\Profile\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\Profile\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\WorkManagement\\ProjectsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\WorkManagement\\ProjectsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\WorkManagement\\TasksService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\WorkManagement\\TasksService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\WorkManagement\\TimeTrackersService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\WorkManagement\\TimeTrackersService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\WorkManagement\\TasksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\Controllers\\WorkManagement\\TasksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Extensions\\ValidationFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\Extensions\\ValidationFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Tools\\Tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Tools\\Tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskCreateDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskCreateDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\ToolService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\ToolService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Repositories\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistence\\Repositories\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\TimeTrackersDTOs\\TimeTrackersCreateDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\WorkManagementDTOs\\TimeTrackersDTOs\\TimeTrackersCreateDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Interfaces\\WorkManagement\\ITimeTrackersService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Interfaces\\WorkManagement\\ITimeTrackersService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\Commom\\ResultModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\Commom\\ResultModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\WorkManagement\\ProjectsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\Controllers\\WorkManagement\\ProjectsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Interfaces\\WorkManagement\\ITasksService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Interfaces\\WorkManagement\\ITasksService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskUpdateDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskUpdateDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\ProjectsDTOs\\ProjectCreateDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\WorkManagementDTOs\\ProjectsDTOs\\ProjectCreateDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\WorkManagement\\Tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\WorkManagement\\Tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\ProjectsDTOs\\ProjectDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\WorkManagementDTOs\\ProjectsDTOs\\ProjectDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\Profile\\Collaborator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\Profile\\Collaborator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\EntityTypeConfig\\TimeTrackersEntityTypeConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistence\\EntityTypeConfig\\TimeTrackersEntityTypeConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Interfaces\\WorkManagement\\ITasksRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Interfaces\\WorkManagement\\ITasksRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\WorkManagement\\TimeTrackers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\WorkManagement\\TimeTrackers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\Entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\Entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Middlewares\\ErrorMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\Middlewares\\ErrorMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\ProfileDTOs\\UserDTOs\\UserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\ProfileDTOs\\UserDTOs\\UserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\ProfileDTOs\\CollaboratorDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\ProfileDTOs\\CollaboratorDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\Profile\\CollaboratorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\Controllers\\Profile\\CollaboratorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Interfaces\\Profile\\ICollaboratorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Interfaces\\Profile\\ICollaboratorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\Profile\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\Controllers\\Profile\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Interfaces\\Profile\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Interfaces\\Profile\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Shared\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shared\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\DesafioIngaCodeApi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\DesafioIngaCodeApi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\TokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\TokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistence\\Persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\DataContext\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistence\\DataContext\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\Profile\\CollaboratorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\Profile\\CollaboratorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\TimeTrackersDTOs\\TimeTrackersDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\WorkManagementDTOs\\TimeTrackersDTOs\\TimeTrackersDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\EntityTypeConfig\\ProjectsEntityTypeConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistence\\EntityTypeConfig\\ProjectsEntityTypeConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\ProfileDTOs\\UserDTOs\\CreateUserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\ProfileDTOs\\UserDTOs\\CreateUserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Interfaces\\WorkManagement\\IProjectsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Interfaces\\WorkManagement\\IProjectsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\WorkManagement\\TimeTrackersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\Controllers\\WorkManagement\\TimeTrackersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\WorkManagement\\Projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\WorkManagement\\Projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Repositories\\WorkManagement\\TasksRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistence\\Repositories\\WorkManagement\\TasksRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Interfaces\\WorkManagement\\IProjectsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Interfaces\\WorkManagement\\IProjectsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Contracts\\ContractDescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Contracts\\ContractDescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Contracts\\ContractName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Contracts\\ContractName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Contracts\\ContractGuid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Contracts\\ContractGuid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\BaseDTOValidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\BaseDTOValidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Contracts\\ContractPassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Contracts\\ContractPassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Contracts\\ContractUsername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Contracts\\ContractUsername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Repositories\\WorkManagement\\ProjectsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistence\\Repositories\\WorkManagement\\ProjectsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\Profile\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\Profile\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\ProfileDTOs\\LoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\DTOs\\ProfileDTOs\\LoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Interfaces\\Profile\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Interfaces\\Profile\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Repositories\\Profile\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistence\\Repositories\\Profile\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\Profile\\AuthenticationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\Controllers\\Profile\\AuthenticationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\BaseApiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\Controllers\\BaseApiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Extensions\\JWTConfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\Extensions\\JWTConfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Extensions\\SwaggerConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\Extensions\\SwaggerConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Repositories\\Profile\\CollaboratorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistence\\Repositories\\Profile\\CollaboratorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Interfaces\\Profile\\ICollaboratorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Interfaces\\Profile\\ICollaboratorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Shared\\Shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shared\\Shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\ViewModel\\ErrorResponseVm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioIngaCodeApi\\ViewModel\\ErrorResponseVm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\Profile\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Profile\\UserService.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\Profile\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\Profile\\UserService.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAiwGYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:45:49.018Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectsService.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\WorkManagement\\ProjectsService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\WorkManagement\\ProjectsService.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\WorkManagement\\ProjectsService.cs",
+              "RelativeToolTip": "Application\\Services\\WorkManagement\\ProjectsService.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwCQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:02:44.154Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksService.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\WorkManagement\\TasksService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\WorkManagement\\TasksService.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\WorkManagement\\TasksService.cs",
+              "RelativeToolTip": "Application\\Services\\WorkManagement\\TasksService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAjwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:49:46.825Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimeTrackersService.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\WorkManagement\\TimeTrackersService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\WorkManagement\\TimeTrackersService.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\WorkManagement\\TimeTrackersService.cs",
+              "RelativeToolTip": "Application\\Services\\WorkManagement\\TimeTrackersService.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAIwJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:25:19.665Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\WorkManagement\\TasksController.cs",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\Controllers\\WorkManagement\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\WorkManagement\\TasksController.cs",
+              "RelativeToolTip": "DesafioIngaCodeApi\\Controllers\\WorkManagement\\TasksController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T02:36:42.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Extensions\\ValidationFilter.cs",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\Extensions\\ValidationFilter.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Extensions\\ValidationFilter.cs",
+              "RelativeToolTip": "DesafioIngaCodeApi\\Extensions\\ValidationFilter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADgvx4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:52:42.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskDTO.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:40:05.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tool.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Tools\\Tool.cs",
+              "RelativeDocumentMoniker": "Domain\\Tools\\Tool.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Tools\\Tool.cs",
+              "RelativeToolTip": "Domain\\Tools\\Tool.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:10:12.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskCreateDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskCreateDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskCreateDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAEwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:40:23.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ToolService.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\ToolService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ToolService.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\ToolService.cs",
+              "RelativeToolTip": "Application\\Services\\ToolService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:55:41.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\appsettings.json",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\appsettings.json",
+              "RelativeToolTip": "DesafioIngaCodeApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T02:25:43.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:09:54.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:56:31.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TimeTrackersCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\TimeTrackersDTOs\\TimeTrackersCreateDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\WorkManagementDTOs\\TimeTrackersDTOs\\TimeTrackersCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\TimeTrackersDTOs\\TimeTrackersCreateDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\WorkManagementDTOs\\TimeTrackersDTOs\\TimeTrackersCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:50:56.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITimeTrackersService.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Interfaces\\WorkManagement\\ITimeTrackersService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\WorkManagement\\ITimeTrackersService.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Interfaces\\WorkManagement\\ITimeTrackersService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\WorkManagement\\ITimeTrackersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:08:41.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResultModel.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\Commom\\ResultModel.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Commom\\ResultModel.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\Commom\\ResultModel.cs",
+              "RelativeToolTip": "Application\\DTOs\\Commom\\ResultModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:08:32.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\WorkManagement\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\Controllers\\WorkManagement\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\WorkManagement\\ProjectsController.cs",
+              "RelativeToolTip": "DesafioIngaCodeApi\\Controllers\\WorkManagement\\ProjectsController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:52:06.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITasksService.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Interfaces\\WorkManagement\\ITasksService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\WorkManagement\\ITasksService.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Interfaces\\WorkManagement\\ITasksService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\WorkManagement\\ITasksService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:42:32.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaskUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskUpdateDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\WorkManagementDTOs\\TasksDTOs\\TaskUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T02:41:41.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProjectCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\ProjectsDTOs\\ProjectCreateDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\WorkManagementDTOs\\ProjectsDTOs\\ProjectCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\ProjectsDTOs\\ProjectCreateDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\WorkManagementDTOs\\ProjectsDTOs\\ProjectCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:06:18.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\WorkManagement\\Tasks.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\WorkManagement\\Tasks.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\WorkManagement\\Tasks.cs",
+              "RelativeToolTip": "Domain\\Entities\\WorkManagement\\Tasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:23:17.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProjectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\ProjectsDTOs\\ProjectDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\WorkManagementDTOs\\ProjectsDTOs\\ProjectDTO.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\ProjectsDTOs\\ProjectDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\WorkManagementDTOs\\ProjectsDTOs\\ProjectDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:06:13.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Collaborator.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\Profile\\Collaborator.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Profile\\Collaborator.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\Profile\\Collaborator.cs",
+              "RelativeToolTip": "Domain\\Entities\\Profile\\Collaborator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:53:33.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TimeTrackersEntityTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\EntityTypeConfig\\TimeTrackersEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\EntityTypeConfig\\TimeTrackersEntityTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\EntityTypeConfig\\TimeTrackersEntityTypeConfiguration.cs",
+              "RelativeToolTip": "Persistence\\EntityTypeConfig\\TimeTrackersEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:19:02.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ITasksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Interfaces\\WorkManagement\\ITasksRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\WorkManagement\\ITasksRepository.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Interfaces\\WorkManagement\\ITasksRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\WorkManagement\\ITasksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:37:48.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TimeTrackers.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\WorkManagement\\TimeTrackers.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\WorkManagement\\TimeTrackers.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\WorkManagement\\TimeTrackers.cs",
+              "RelativeToolTip": "Domain\\Entities\\WorkManagement\\TimeTrackers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:49:33.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\Entity.cs",
+              "RelativeToolTip": "Domain\\Entities\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:30:24.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Middlewares\\ErrorMiddleware.cs",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\Middlewares\\ErrorMiddleware.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Middlewares\\ErrorMiddleware.cs",
+              "RelativeToolTip": "DesafioIngaCodeApi\\Middlewares\\ErrorMiddleware.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADgvx8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:04:24.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\ProfileDTOs\\UserDTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ProfileDTOs\\UserDTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\ProfileDTOs\\UserDTOs\\UserDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\ProfileDTOs\\UserDTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:28:25.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CollaboratorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\ProfileDTOs\\CollaboratorDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ProfileDTOs\\CollaboratorDTO.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\ProfileDTOs\\CollaboratorDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\ProfileDTOs\\CollaboratorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:28:33.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CollaboratorController.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\Profile\\CollaboratorController.cs",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\Controllers\\Profile\\CollaboratorController.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\Profile\\CollaboratorController.cs",
+              "RelativeToolTip": "DesafioIngaCodeApi\\Controllers\\Profile\\CollaboratorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T17:19:56.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICollaboratorService.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Interfaces\\Profile\\ICollaboratorService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Profile\\ICollaboratorService.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Interfaces\\Profile\\ICollaboratorService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Profile\\ICollaboratorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:52:36.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\Profile\\UserController.cs",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\Controllers\\Profile\\UserController.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\Profile\\UserController.cs",
+              "RelativeToolTip": "DesafioIngaCodeApi\\Controllers\\Profile\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:45:03.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Interfaces\\Profile\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Profile\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Interfaces\\Profile\\IUserService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Profile\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:48:00.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Shared\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Shared\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Shared\\DependencyInjection.cs",
+              "RelativeToolTip": "Shared\\DependencyInjection.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:14:45.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DesafioIngaCodeApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\DesafioIngaCodeApi.csproj",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\DesafioIngaCodeApi.csproj",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\DesafioIngaCodeApi.csproj",
+              "RelativeToolTip": "DesafioIngaCodeApi\\DesafioIngaCodeApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T14:08:14.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\TokenService.cs",
+              "RelativeToolTip": "Application\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T04:19:48.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Persistence.csproj",
+              "RelativeDocumentMoniker": "Persistence\\Persistence.csproj",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Persistence.csproj",
+              "RelativeToolTip": "Persistence\\Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T02:24:35.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\DataContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\DataContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\DataContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Persistence\\DataContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:19:25.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CollaboratorService.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\Profile\\CollaboratorService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Profile\\CollaboratorService.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Services\\Profile\\CollaboratorService.cs",
+              "RelativeToolTip": "Application\\Services\\Profile\\CollaboratorService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvzUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:53:40.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TimeTrackersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\TimeTrackersDTOs\\TimeTrackersDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\WorkManagementDTOs\\TimeTrackersDTOs\\TimeTrackersDTO.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\WorkManagementDTOs\\TimeTrackersDTOs\\TimeTrackersDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\WorkManagementDTOs\\TimeTrackersDTOs\\TimeTrackersDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:53:38.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProjectsEntityTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\EntityTypeConfig\\ProjectsEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\EntityTypeConfig\\ProjectsEntityTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\EntityTypeConfig\\ProjectsEntityTypeConfiguration.cs",
+              "RelativeToolTip": "Persistence\\EntityTypeConfig\\ProjectsEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:47:12.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\ProfileDTOs\\UserDTOs\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ProfileDTOs\\UserDTOs\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\ProfileDTOs\\UserDTOs\\CreateUserDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\ProfileDTOs\\UserDTOs\\CreateUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T04:08:46.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IProjectsService.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Interfaces\\WorkManagement\\IProjectsService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\WorkManagement\\IProjectsService.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Interfaces\\WorkManagement\\IProjectsService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\WorkManagement\\IProjectsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:03:06.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TimeTrackersController.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\WorkManagement\\TimeTrackersController.cs",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\Controllers\\WorkManagement\\TimeTrackersController.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\WorkManagement\\TimeTrackersController.cs",
+              "RelativeToolTip": "DesafioIngaCodeApi\\Controllers\\WorkManagement\\TimeTrackersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:30:37.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DesafioIngaCodeApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T17:11:41.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Program.cs",
+              "RelativeToolTip": "DesafioIngaCodeApi\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADgvyIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:48:42.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Projects.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\WorkManagement\\Projects.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\WorkManagement\\Projects.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\WorkManagement\\Projects.cs",
+              "RelativeToolTip": "Domain\\Entities\\WorkManagement\\Projects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T17:57:58.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TasksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Repositories\\WorkManagement\\TasksRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\WorkManagement\\TasksRepository.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Repositories\\WorkManagement\\TasksRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\WorkManagement\\TasksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:39:44.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IProjectsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Interfaces\\WorkManagement\\IProjectsRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\WorkManagement\\IProjectsRepository.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Interfaces\\WorkManagement\\IProjectsRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\WorkManagement\\IProjectsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T17:59:24.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ContractDescription.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Contracts\\ContractDescription.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\ContractDescription.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Contracts\\ContractDescription.cs",
+              "RelativeToolTip": "Application\\Contracts\\ContractDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:46:37.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ContractName.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Contracts\\ContractName.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\ContractName.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Contracts\\ContractName.cs",
+              "RelativeToolTip": "Application\\Contracts\\ContractName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:40:36.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ContractGuid.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Contracts\\ContractGuid.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\ContractGuid.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Contracts\\ContractGuid.cs",
+              "RelativeToolTip": "Application\\Contracts\\ContractGuid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:42:59.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BaseDTOValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\BaseDTOValidation.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\BaseDTOValidation.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\BaseDTOValidation.cs",
+              "RelativeToolTip": "Application\\DTOs\\BaseDTOValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:29:49.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ContractPassword.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Contracts\\ContractPassword.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\ContractPassword.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Contracts\\ContractPassword.cs",
+              "RelativeToolTip": "Application\\Contracts\\ContractPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T04:02:28.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ContractUsername.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Contracts\\ContractUsername.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\ContractUsername.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Contracts\\ContractUsername.cs",
+              "RelativeToolTip": "Application\\Contracts\\ContractUsername.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:54:35.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProjectsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Repositories\\WorkManagement\\ProjectsRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\WorkManagement\\ProjectsRepository.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Repositories\\WorkManagement\\ProjectsRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\WorkManagement\\ProjectsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:00:38.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\Profile\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Profile\\User.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Entities\\Profile\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\Profile\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:37:12.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\ProfileDTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ProfileDTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\DTOs\\ProfileDTOs\\LoginDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\ProfileDTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:51:12.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Interfaces\\Profile\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Profile\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Interfaces\\Profile\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Profile\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:06:40.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Repositories\\Profile\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\Profile\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Repositories\\Profile\\UserRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\Profile\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:21:18.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\Profile\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\Controllers\\Profile\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\Profile\\AuthenticationController.cs",
+              "RelativeToolTip": "DesafioIngaCodeApi\\Controllers\\Profile\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:43:13.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T02:24:30.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "DesafioIngaCodeApi\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:41:17.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "JWTConfigure.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Extensions\\JWTConfigure.cs",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\Extensions\\JWTConfigure.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Extensions\\JWTConfigure.cs",
+              "RelativeToolTip": "DesafioIngaCodeApi\\Extensions\\JWTConfigure.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:50:50.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Extensions\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\Extensions\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\Extensions\\SwaggerConfig.cs",
+              "RelativeToolTip": "DesafioIngaCodeApi\\Extensions\\SwaggerConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:52:14.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Configuration.cs",
+              "RelativeDocumentMoniker": "Application\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Application\\Configuration.cs",
+              "RelativeToolTip": "Application\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T04:22:37.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CollaboratorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Repositories\\Profile\\CollaboratorRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\Profile\\CollaboratorRepository.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Persistence\\Repositories\\Profile\\CollaboratorRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\Profile\\CollaboratorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:22:50.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ICollaboratorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Interfaces\\Profile\\ICollaboratorRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Profile\\ICollaboratorRepository.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Domain\\Interfaces\\Profile\\ICollaboratorRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Profile\\ICollaboratorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:07:28.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Shared\\Shared.csproj",
+              "RelativeDocumentMoniker": "Shared\\Shared.csproj",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\Shared\\Shared.csproj",
+              "RelativeToolTip": "Shared\\Shared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T02:17:29.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ErrorResponseVm.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\ViewModel\\ErrorResponseVm.cs",
+              "RelativeDocumentMoniker": "DesafioIngaCodeApi\\ViewModel\\ErrorResponseVm.cs",
+              "ToolTip": "C:\\Users\\Angelo\\source\\repos\\DesafioIngaCode\\DesafioIngaCodeApi\\ViewModel\\ErrorResponseVm.cs",
+              "RelativeToolTip": "DesafioIngaCodeApi\\ViewModel\\ErrorResponseVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:05:07.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

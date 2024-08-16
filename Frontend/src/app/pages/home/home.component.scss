@@ -1,0 +1,197 @@
+/* Container principal */
+.container-fluid {
+    padding: 20px;
+}
+
+/* Estilos para a seção de informações */
+.card-info {
+    background: #fafafa;
+    padding: 14px 18px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 3px 1px #0a0a0a20;
+    margin-bottom: 20px;
+}
+
+/* Estilo para o título */
+.titulo {
+    font-size: 26px;
+    font-weight: 500;
+    margin: 0;
+    color: var(--primary-color);
+}
+
+/* Estilo para o subtítulo */
+.subtitulo {
+    font-size: 16px;
+    font-weight: 300;
+    margin: 26px 0px 14px;
+    color: var(--gray-color);
+    span {
+        color: var(--primary-color);
+        font-weight: 500;
+    }
+}
+
+/* Estilo para o texto do cartão */
+.text-card {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 18px;
+    color: #888;
+}
+
+/* Estilo para o número do cartão */
+.numero-card {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    color: #0a0a0a;
+}
+
+/* Estilo para o destaque do cartão */
+.destaque-card {
+    font-size: 12px;
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+/* Estilo para o item da lista no perfil */
+li {
+    font-size: 14px;
+    font-weight: 500;
+    color: #868686;
+    padding: 14px 0px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #dbdbdb;
+    img {
+        margin-right: 14px;
+        width: 20px;
+        height: 20px;
+    }
+}
+
+/* Estilo para a imagem de perfil */
+.img-perfil {
+    border-radius: 50%;
+    width: 40%;
+    margin: 0 auto;
+}
+
+/* Estilo para o container do perfil */
+.container-perfil {
+    text-align: center;
+    h4 {
+        font-size: 16px;
+        color: #474747;
+        font-weight: 500;
+        margin: 8px 0px;
+    }
+    h5 {
+        font-size: 14px;
+        color: #6d6d6d;
+        font-weight: 400;
+        margin: 2px 0px;
+    }
+    li {
+        color: var(--primary-color);
+        border: none;
+    }
+}
+
+/* Responsividade */
+@media (max-width: 1200px) {
+    .col-lg-9 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .col-lg-3 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 992px) {
+    .titulo {
+        font-size: 22px;
+    }
+
+    .subtitulo {
+        font-size: 14px;
+    }
+
+    .text-card {
+        font-size: 14px;
+    }
+
+    .numero-card {
+        font-size: 24px;
+    }
+
+    .destaque-card {
+        font-size: 10px;
+    }
+
+    .img-perfil {
+        width: 50%;
+    }
+}
+
+@media (max-width: 768px) {
+    .card-info {
+        padding: 10px;
+    }
+
+    .titulo {
+        font-size: 20px;
+    }
+
+    .subtitulo {
+        font-size: 12px;
+    }
+
+    .text-card {
+        font-size: 12px;
+    }
+
+    .numero-card {
+        font-size: 20px;
+    }
+
+    .destaque-card {
+        font-size: 8px;
+    }
+
+    .img-perfil {
+        width: 60%;
+    }
+}
+
+@media (max-width: 576px) {
+    .titulo {
+        font-size: 18px;
+    }
+
+    .subtitulo {
+        font-size: 10px;
+    }
+
+    .text-card {
+        font-size: 12px;
+    }
+
+    .numero-card {
+        font-size: 18px;
+    }
+
+    .destaque-card {
+        font-size: 8px;
+    }
+
+    .img-perfil {
+        width: 70%;
+    }
+}

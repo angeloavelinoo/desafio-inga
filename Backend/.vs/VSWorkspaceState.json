@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application",
+    "\\Application\\DTOs",
+    "\\DesafioIngaCodeApi",
+    "\\DesafioIngaCodeApi\\Controllers",
+    "\\DesafioIngaCodeApi\\Controllers\\Profile",
+    "\\DesafioIngaCodeApi\\Controllers\\WorkManagement",
+    "\\Domain",
+    "\\Domain\\Tools",
+    "\\Shared"
+  ],
+  "PreviewInSolutionExplorer": false
+}

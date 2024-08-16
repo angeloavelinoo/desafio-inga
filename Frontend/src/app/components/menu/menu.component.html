@@ -1,0 +1,28 @@
+<button class="menu-toggle" (click)="toggleMenu($event)">
+  <img src="../../../assets/menu-img.png" alt="">
+</button>
+
+<nav class="side-menu" [class.visible]="isMenuVisible">
+    <ul>
+        <li routerLink="/home">
+            <img src="../../../assets/logo.png" alt="logo.png" width="40px">
+            <span class="logo">Inga Gerenciamentos</span>
+        </li>
+        <li routerLink="/home">
+            <img class="me-3" src="../../../assets/icons/home_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png" width="30px">
+            Home
+        </li>
+        <li routerLink="/projetos">
+            <img class="me-3" src="../../../assets/icons/receipt_long_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png" width="30px">
+            Projetos
+        </li>
+        <li routerLink="/colaboradores">
+            <img class="me-3" src="../../../assets/icons/group_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png" width="30px">
+            Colaboradores
+        </li>
+        <li class="logout" (click)="logout()">
+            <img class="me-3" src="../../../assets/icons/logout_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png" width="30px">
+            Sair
+        </li>
+    </ul>
+</nav>

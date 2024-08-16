@@ -1,0 +1,13 @@
+<div class="content-area">
+    <form class="area-form" [formGroup]="form">
+        <h1 class="titulo">Atualizar Projeto</h1>
+        
+        <input  formControlName="name" class="input-form" type="text" placeholder="Nome do projeto">
+        <p *ngIf="form.controls.name.invalid && form.controls.name.touched" class="errorMessage">
+            Campo inválido. Deve ter pelo menos 3 caracteres.
+        </p>
+
+        <app-button textButton="Atualizar" (click)="update(form.controls.name.value ?? '')" class="main-button"></app-button>
+        <app-button routerLink="/projetos" class="main-button"  textButton="Voltar"></app-button>
+    </form>
+</div>
