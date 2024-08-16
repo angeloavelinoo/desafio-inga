@@ -9,7 +9,7 @@ Para banco de dados foi ultilizado SQL Server
 - [Angular CLI](https://angular.io/cli)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/) (recomendado) ou [Visual Studio Code](https://code.visualstudio.com/)
 - [DOTNET SDK](https://dotnet.microsoft.com/en-us/download)
-- [DOTNET ENTITY CLI]([https://dotnet.microsoft.com/en-us/download](https://learn.microsoft.com/pt-br/ef/core/cli/dotnet))
+- [DOTNET ENTITY CLI](https://learn.microsoft.com/pt-br/ef/core/cli/dotnet)
   
 
 ## Como Rodar o Projeto
