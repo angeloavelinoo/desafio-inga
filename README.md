@@ -1,5 +1,3 @@
-# Inga Code Desafio
-
 Este projeto foi desenvolvido como um desafio utilizando .NET 8 e Angular 17.
 Para banco de dados foi ultilizado SQL Server
 
